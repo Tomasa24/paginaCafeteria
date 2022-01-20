@@ -1,0 +1,9 @@
+/* @forward 'Sirve para incluir archivos dentro de otros, nada mas incluir';
+@use 'Sirve para incluir el archivo dentro de otros, pero tambien van a utilizar el contenido';
+@import 'Sirve para incluir el archivo dentro de otros, pero tambien van a utilizar el contenido'; */
+@forward 'normalize';
+@forward 'variables';
+@forward 'mixins';
+@forward 'globales';
+@forward 'tipografia';
+
